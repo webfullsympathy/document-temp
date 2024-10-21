@@ -1,0 +1,19 @@
+<h1>共有ツールについて</h1>
+<p>共有ツールは、2024年9月から<a href="https://webfullsympathy.github.io">ウェブ完理<a/>をメインに開発されているアプリです。</p>
+<p>編集者様として<a href="https://umaidango.github.io">うまいだんご</a>さんにも手伝ってもらっています。</p>
+<p>共有ツールでは文字列を入力してサービスを選択することで共有画面が開くというシンプルなサービスです。</p>
+<p>狙いとしては、ブログなどのシェアボタンを一つにまとめることでユーザーに迷わせることなくスムーズに遷移させることを狙っています。</p>
+
+<style>
+#icon{
+  border-radius: 100px;
+}
+a{
+  text-decoration: none;
+}
+</style>
+<h3>このドキュメントを書いた人</h3>
+<a href="https://webfullsympathy.github.io">
+<img src="https://webfullsympathy.github.io/profile.jpg" id="icon">
+<h2>ウェブ完理</h2>
+</a>
