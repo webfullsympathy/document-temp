@@ -4,14 +4,6 @@
 <p>共有ツールでは文字を打って様々なSNSで共有できます。</p>
 <p>また、サイト運営者向けで共有ボタンを一つにまとめられる機能もあります。<br>これだけのとてもシンプルなツールです。</p>
 
-<style>
-#icon{
-  border-radius: 100px;
-}
-a{
-  text-decoration: none;
-}
-</style>
 <h3>このドキュメントを書いた人</h3>
 <a href="https://webfullsympathy.github.io">
 <img src="https://webfullsympathy.github.io/profile.jpg" id="icon">
