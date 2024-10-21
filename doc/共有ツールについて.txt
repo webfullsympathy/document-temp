@@ -4,14 +4,6 @@
 <p>共有ツールでは文字列を入力してサービスを選択することで共有画面が開くというシンプルなサービスです。</p>
 <p>狙いとしては、ブログなどのシェアボタンを一つにまとめることでユーザーに迷わせることなくスムーズに遷移させることを狙っています。</p>
 
-<style>
-#icon{
-  border-radius: 100px;
-}
-a{
-  text-decoration: none;
-}
-</style>
 <h3>このドキュメントを書いた人</h3>
 <a href="https://webfullsympathy.github.io">
 <img src="https://webfullsympathy.github.io/profile.jpg" id="icon">
