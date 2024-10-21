@@ -1,4 +1,19 @@
 <h1>使い方</h1>
 <h4>まずYoutube動画をご覧ください。</h4>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?si=g0x9NLzk7PK0TzXx&amp;list=PLD5_O6kM3mC5kBGK1VQnsh0XHA1F4vALn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<p>共有ツールでは文字を打って様々なSNSで共有できます。<br>また、サイト運営者向けで共有ボタンを一つにまとめられる機能もあります。<br>これだけのとてもシンプルなツールです。</p>
+<p>共有ツールでは文字を打って様々なSNSで共有できます。</p>
+<p>また、サイト運営者向けで共有ボタンを一つにまとめられる機能もあります。<br>これだけのとてもシンプルなツールです。</p>
+
+<style>
+#icon{
+  border-radius: 100px;
+}
+a{
+  text-decoration: none;
+}
+</style>
+<h3>このドキュメントを書いた人</h3>
+<a href="https://webfullsympathy.github.io">
+<img src="https://webfullsympathy.github.io/profile.jpg" id="icon">
+<h2>ウェブ完理</h2>
+</a>
