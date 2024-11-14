@@ -1,3 +1,4 @@
 <a href="javascript:doc('利用規約')" style="color: #ff0000">利用規約</a>
+<a href="javascript:doc('プライバシーポリシー')" style="color: #ff0000">プライバシーポリシー</a>
 <a href="javascript:doc('共有ツールについて')">共有ツールについて</a>
 <a href="javascript:doc('使い方')">使い方</a>
